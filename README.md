@@ -1,4 +1,4 @@
-# 8-Bit-Arithmetic-Operations-using-8085
+<img width="1322" height="1030" alt="image" src="https://github.com/user-attachments/assets/f9a737fb-d89b-4147-b9c9-c572f1313822" /># 8-Bit-Arithmetic-Operations-using-8085
 ## Aim:
 To perform 8-bit arithmetic operations such as addition, subtraction, multiplication, and division using the 8085 microprocessor.
 
@@ -30,7 +30,7 @@ HLT
 
 <img width="1879" height="747" alt="ADDITION 1" src="https://github.com/user-attachments/assets/d7a2f800-cb39-4f28-819e-30edabbf85a6" />
 
-<img width="1583" height="1599" alt="image" src="https://github.com/user-attachments/assets/41d1983a-f2b0-4185-a896-321b4304c711" />
+[ADDITION EXPLANTION].<<img width="1583" height="1599" alt="image" src="https://github.com/user-attachments/assets/41d1983a-f2b0-4185-a896-321b4304c711" />
 
 
 
@@ -61,7 +61,7 @@ HLT
 
 <img width="1810" height="729" alt="SUBTRACTION1" src="https://github.com/user-attachments/assets/19a24eeb-8db2-4368-9d96-bff5636efdb1" />
 
-![SUBTRACTION EXPLANTION].<img width="1600" height="994" alt="image" src="https://github.com/user-attachments/assets/4a691638-d2b2-47ce-a3a8-fe85c03d6a9d" />
+[SUBTRACTION EXPLANTION].<img width="1600" height="994" alt="image" src="https://github.com/user-attachments/assets/4a691638-d2b2-47ce-a3a8-fe85c03d6a9d" />
 
 
 
@@ -91,7 +91,7 @@ HLT
 
 <img width="1815" height="734" alt="MULTIPLICATION 1" src="https://github.com/user-attachments/assets/855578d5-7eea-409b-a6a5-b452376e0236" />
 
-![MULTIPLICTION EXPLANATION1]<img width="1600" height="1181" alt="image" src="https://github.com/user-attachments/assets/1474c315-a9b5-4f46-9652-ce4f1ad7cf1d" />
+[MULTIPLICTION EXPLANATION1]<img width="1600" height="1181" alt="image" src="https://github.com/user-attachments/assets/1474c315-a9b5-4f46-9652-ce4f1ad7cf1d" />
 
 ### For Division:
 1.	Load the dividend from memory location 4200H into register A.
@@ -125,7 +125,7 @@ HLT
 
 <img width="1806" height="737" alt="DIVISION1" src="https://github.com/user-attachments/assets/f5c76d6a-62ea-4bbd-9147-31f153026997" />
 
-![DIVISION EXPLANATION].<img width="1322" height="1030" alt="image" src="https://github.com/user-attachments/assets/e169f664-e6c4-4e01-8fba-36a303514825" />
+[DIVISION EXPLANATION].<img width="1322" height="1030" alt="image" src="https://github.com/user-attachments/assets/e169f664-e6c4-4e01-8fba-36a303514825" />
 
 
 
