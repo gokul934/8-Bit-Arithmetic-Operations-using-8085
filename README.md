@@ -1,4 +1,4 @@
-<img width="1322" height="1030" alt="image" src="https://github.com/user-attachments/assets/f9a737fb-d89b-4147-b9c9-c572f1313822" /># 8-Bit-Arithmetic-Operations-using-8085
+
 ## Aim:
 To perform 8-bit arithmetic operations such as addition, subtraction, multiplication, and division using the 8085 microprocessor.
 
@@ -30,7 +30,7 @@ HLT
 
 <img width="1879" height="747" alt="ADDITION 1" src="https://github.com/user-attachments/assets/d7a2f800-cb39-4f28-819e-30edabbf85a6" />
 
-[ADDITION EXPLANTION].<<img width="1583" height="1599" alt="image" src="https://github.com/user-attachments/assets/41d1983a-f2b0-4185-a896-321b4304c711" />
+[ADDITION EXPLANTION].<img width="1583" height="1599" alt="image" src="https://github.com/user-attachments/assets/41d1983a-f2b0-4185-a896-321b4304c711" />
 
 
 
